@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299336598149",
+    "firebase_url": "https://flutterdemo-76a14.firebaseio.com",
+    "project_id": "flutterdemo-76a14",
+    "storage_bucket": "flutterdemo-76a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299336598149:android:596d037813a3a2f6",
+        "android_client_info": {
+          "package_name": "com.tesco.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299336598149-1o6fn4dqhfsikvbv1noqr1pud8ot58t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWJOo9MfOv3XAnLHNaY9Zs8tO7KR7Hzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299336598149-1o6fn4dqhfsikvbv1noqr1pud8ot58t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
